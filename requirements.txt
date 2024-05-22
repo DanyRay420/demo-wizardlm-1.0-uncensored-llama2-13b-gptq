@@ -1,3 +1,4 @@
 potassium>=0.0.9
 torch
 transformers
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
