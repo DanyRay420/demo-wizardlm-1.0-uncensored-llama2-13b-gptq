@@ -1,3 +1,4 @@
 potassium>=0.0.9
 torch
 transformers
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
